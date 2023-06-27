@@ -1,0 +1,39 @@
+.botaoo{
+   position: absolute;
+   top: 10px;
+   z-index: 3;
+}
+
+.botao {
+  width: 90px;
+  height: 30px;
+  border-color: #000000;
+  background-color: rgb(161, 6, 166);
+}
+
+#mapa{
+  position: absolute;
+  width: 1500px;
+  height: 750px;
+  z-index: 1;
+}
+
+#esquerda{
+  position: absolute;
+  z-index: 1000;
+  width: 20px;
+  height: 70px;
+  margin-left: 411px;
+  top: 478px;
+  left: 600px;
+  z-index: 2;
+}
+
+#img2{
+  position: absolute;
+  z-index: 3;
+  left: 740px;
+  top: 410px;
+  width: 170px;
+  height: 175px;
+}
